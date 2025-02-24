@@ -8,6 +8,7 @@ public class AddClass {
 	@Test
 	public void demo() {
 		Reporter.log("Add Class", true);
+		Reporter.log("Add Class", true);
 	}
 
 }
